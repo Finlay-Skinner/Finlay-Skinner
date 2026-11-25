@@ -15,7 +15,7 @@
 
 ## Currently working on
 
-**Cross-platform playlist app:** An application that uses the Deezer and Apple Music APIs so users can create and manage playlists across both services.
+**Cross-platform playlist app:** An application that uses the Deezer and Apple Music APIs so users can create and manage playlists across both services.<br>
 [View the repo →](https://github.com/Finlay-Skinner/Multi-Platform-Playlist-Builder)
 
 ## Tech stack

@@ -5,6 +5,12 @@
   Aiming for a career in <b>software engineering</b> and/or <b>cybersecurity</b>.
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/finlay-skinner/">
+    <img src = "https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" alt="LinkedIn">
+  </a>
+</p>
+
 ---
 
 ## Currently working on
